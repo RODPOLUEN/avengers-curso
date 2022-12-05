@@ -2,4 +2,4 @@
 
 * Dr Doom
 * Red Skull
-* Chef Herrera
+* Capitan America
